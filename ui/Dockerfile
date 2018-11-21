@@ -1,4 +1,4 @@
-FROM mattf/storm-base
+FROM manniss/storm-base
 
 MAINTAINER Michael Anniss <mja2g16@soton.ac.uk>
 
